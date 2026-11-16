@@ -1,0 +1,5 @@
+﻿Financial_Year,Quarters,Revenue_Cr,Operating_Profit_Cr,Net_Profit_Cr,Total_Assets_Cr,Total_Liabilities_Cr,Total_Equity_Cr,Cash_Equivalents_Cr,Total_Debt_Cr,Operating_Cash_Flow_Cr,Eps_Rs,Dividend_Per_Share_Rs,Revenue_Growth_Pct,Operating_Profit_Growth_Pct,Net_Profit_Growth_Pct,Operating_Profit_Margin_Pct,Net_Profit_Margin_Pct,Debt_to_Equity_Ratio,Operating_Cash_Flow_to_Net_Profit_Pct
+2026,FY2026-Q1,3050.00,610.00,420.00,9800.00,3020.00,6780.00,1320.00,510.00,475.00,8.40,2.00,,,,20.0,13.77,0.08,113.1
+2026,FY2026-Q2,3210.00,655.00,455.00,10020.00,3090.00,6930.00,1380.00,500.00,510.00,9.10,2.00,5.25,7.38,8.33,20.4,14.17,0.07,112.09
+2026,FY2026-Q3,3370.00,690.00,480.00,10240.00,3160.00,7080.00,1450.00,490.00,545.00,9.60,2.00,4.98,5.34,5.49,20.47,14.24,0.07,113.54
+2026,FY2026-Q4,3620.00,735.00,520.00,10480.00,3230.00,7250.00,1510.00,480.00,620.00,10.40,3.00,7.42,6.52,8.33,20.3,14.36,0.07,119.23

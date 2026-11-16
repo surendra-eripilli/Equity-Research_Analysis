@@ -1,0 +1,5 @@
+﻿Financial_Year,Quarters,Total_Assets_Cr,Total_Liabilities_Cr,Total_Equity_Cr,Cash_Equivalents_Cr,Total_Debt_Cr,Other_Assets_Cr,Liabilities_And_Equity_Cr,Assets_Growth_Pct,Liabilities_Growth_Pct,Equity_Growth_Pct,Debt_to_Equity_Ratio,Debt_to_Assets_Pct,Equity_Ratio_Pct,Liabilities_to_Assets_Pct
+2026,FY2026-Q1,9800.00,3020.00,6780.00,1320.00,510.00,8480.00,9800.00,,,,0.08,5.2,69.18,30.82
+2026,FY2026-Q2,10020.00,3090.00,6930.00,1380.00,500.00,8640.00,10020.00,2.24,2.32,2.21,0.07,4.99,69.16,30.84
+2026,FY2026-Q3,10240.00,3160.00,7080.00,1450.00,490.00,8790.00,10240.00,2.2,2.27,2.16,0.07,4.79,69.14,30.86
+2026,FY2026-Q4,10480.00,3230.00,7250.00,1510.00,480.00,8970.00,10480.00,2.34,2.22,2.4,0.07,4.58,69.18,30.82
