@@ -197,18 +197,16 @@ The project helped demonstrate practical skills in SQL, Python, financial analys
 
 ### 11.1 Executive Summary
 
-![Executive Summary](Dashboard%20Images/01_Executive_Summary.png)
+![Executive Summary](Dashboard%20Images/01_EXECUTIVE_SUMMARY.png)
 
 ### 11.2 Financial Performance
 
-![Financial Performance](Dashboard%20Images/02_Financial_Performance.png)
+![Financial Performance](Dashboard%20Images/02_FINANCIAL_PERFORMANCE.png)
 
 ### 11.3 Stock Market Analysis
 
-![Stock Market Analysis](Dashboard%20Images/03_Stock_Market_Analysis.png)
+![Stock Market Analysis](Dashboard%20Images/03_STOCK_MARKET_ANALYSIS.png)
 
 ### 11.4 Peer Comparison
 
-![Peer Comparison][def]
-
-[def]: Dashboard%20Images/04_Peer_Comparison.png
+![Peer Comparison](Dashboard%20Images/04_PEER_COMPARISON.png)
